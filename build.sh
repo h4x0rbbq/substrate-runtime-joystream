@@ -16,4 +16,4 @@ do
 	wasm-gc target/wasm32-unknown-unknown/release/$i.wasm target/wasm32-unknown-unknown/release/$i.compact.wasm
 done
 
-mkdir -p is_built
+mkdir -p /home/travis/substrate-node-joystream/substrate-runtime-joystream/is_built
